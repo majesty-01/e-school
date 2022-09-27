@@ -30,8 +30,12 @@ body{
 .container{
     padding: 20px 0 60px 0;
 }
-.section1{
-    background-color: #F0FFF0;
+.green-bg{
+    background-color:#F0FFF0;
+}
+.col-md-7 img{
+    width: 700px;
+    padding: 20px 30px;
 }
 h6{
     font-size: 20px;
@@ -152,5 +156,5 @@ h2{
     line-height: 20px;
 }
 .footer-box{
-    padding: 60px 0 80px 40px;
+    padding: 60px;
 }
