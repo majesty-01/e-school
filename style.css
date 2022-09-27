@@ -33,7 +33,7 @@ body{
 .green-bg{
     background-color:#F0FFF0;
 }
-.col-md-7 img{
+.hero-thumb img{
     width: 700px;
     padding: 20px 30px;
 }
@@ -57,11 +57,12 @@ p{
 }
 
 
-.col-md-3 img{
+.catagory-item img{
     width: 66px;
     padding-bottom: 20px;
 }
-.box1, .box2, .box3, .box4{
+.box{
+    background-color: #F8FFFB;
     border-radius: 10px;
     height: 270px;
     display: flex;
@@ -69,10 +70,7 @@ p{
     justify-content: center;
     align-items: center;
 }
-.box1, .box3, .box4{
-    background-color: #F8FFFB;
-}
-.box2{
+.box-shadow{
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
 }
 h4{
